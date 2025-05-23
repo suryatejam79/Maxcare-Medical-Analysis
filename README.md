@@ -2,7 +2,7 @@
 Max Care Hospital Admission Analysis This project analyzes real-time data to uncover trends in patient admissions, waiting times, health conditions, repeat visits, and departmental loads. Built in Power BI with 30+ DAX measures, custom visuals, and stakeholder-focused insights. Designed to support operational decisions and improve best delivery.
 
 
-# 🏥 Max Care Hospital - Patient Admission Analysis (Power BI Project)
+# Patient Admission Analysis (Power BI Project)
 
 ### 📘 Project Walkthrough & Documentation
 the below data is filtered for the Month Feb 2018 but there is latest than that
